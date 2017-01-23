@@ -5,7 +5,7 @@ a{color: #000}
 .green{color: #3cc51f}
 .blue{color: #225fba}
 /*副标题*/
-.SecondTitle{padding: 1rem;font-size: larger;font-weight: 600;}
+.SecondTitle{padding: 0.5rem 0 0 0 ;font-size: larger;font-weight: 600;}
 /*按钮或其他间距*/
 .spacing{padding:0 15px;background: #fff}
 .fixBottom{position: fixed;left: 0;bottom: 0;width: 100%;box-sizing: border-box;padding-bottom: 5px;}
